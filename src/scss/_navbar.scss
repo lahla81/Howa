@@ -8,6 +8,10 @@
     border:none;
     border-bottom:2px solid $brand-primary;
     .navbar-nav {
+        .navbar-form{
+            margin-left: 0px;
+            margin-right: 0px;
+        }
         margin:0px;
         li a {
             font-weight: bold;
